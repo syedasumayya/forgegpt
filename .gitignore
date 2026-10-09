@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Big files (these live on Google Drive, not GitHub)
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+data/
+wandb/
